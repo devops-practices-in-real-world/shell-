@@ -1,4 +1,4 @@
-#!/bin/bash1
+#!/bin/bash
 
 # GitHub API URL
 API_URL="https://api.github.com"
